@@ -1,4 +1,4 @@
-# How can biking behaviour drive a speedy business?
+# How biking behaviour can drive a speedy business
 
 ## Project Description
 The following project analyses consumer behaviour for a bicycle rental business.
