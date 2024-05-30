@@ -22,4 +22,4 @@ www.kaggle.com/datasets/christianpartal/bikingdata
 Make sure to save the dataset in a folder and then assign that folder as your working directory.
 
 R scripts are provided with the code necessary for analysis. The code contains annotations explaining the different steps and approaches taken.
-The scripts include the loading of datasets and initial data exploration, the creation of new variables, finding potential problems and fixing them, cleaning the data, analyzing the data by finding patterns, comparing elements, and concluding valuable insights about the business that can translate into clear business decissions that will positively impact the company.
+The scripts include the loading of datasets and initial data exploration, the creation of new variables, finding potential problems and fixing them, cleaning the data, analyzing the data by finding patterns, comparing elements, and concluding valuable insights about the business. These can translate into specific marketing and business decissions that will positively impact the company.
